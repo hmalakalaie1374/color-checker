@@ -1,2 +1,3 @@
 # color-checker
-A minimal color checker for UI designers
+
+Another minimal color checker
